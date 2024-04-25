@@ -1,0 +1,9 @@
+{
+	"name": "Efficient-P-U-M-P-S",
+	"version": "0.0.1",
+	"factorio_version": "1.1",
+	"title": "Efficient Offshore P.U.M.P.S.",
+	"author": "dragon-architect",
+	"description": "Adds additional power requirement scaling options to OldSkoolMatt's Offshore P.U.M.P.S. and Ground Water mod.",
+	"dependencies": ["base >= 1.1.0", "P-U-M-P-S >= 1.1.67"]
+}
